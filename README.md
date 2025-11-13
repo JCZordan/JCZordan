@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hola!👋
 
 <!--
 **JCZordan/JCZordan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 Trabajando en un Proyecto de Vivienda Unifamiliar
+- 🌱 Actualmente capacitandome en Sql - JavaScript and Python
+https://img.shields.io/badge/logo-javascript-blue?logo=javascript
+https://img.shields.io/badge/logo-javascript-blue?logo=Sql
+https://img.shields.io/badge/logo-javascript-blue?logo=Python
+https://img.shields.io/badge/logo-javascript-blue?logo=Html
+https://img.shields.io/badge/logo-javascript-blue?logo=Css
+- 👯 ME GUSTA TRABAJAR EN EQUIPO
+- 😄 Me llaman "CALO"
+- ⚡ 
 -->
