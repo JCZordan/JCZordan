@@ -13,4 +13,4 @@ https://img.shields.io/badge/logo-javascript-blue?logo=javascript
 https://img.shields.io/badge/logo-javascript-blue?logo=Sql
 https://img.shields.io/badge/logo-javascript-blue?logo=Python
 https://img.shields.io/badge/logo-javascript-blue?logo=Html
-![CSS](https://img.shields.io/badge/logo-CSS-blue?logo=CSS)
+![CSS](https://img.shields.io/badge/CSS-blue?logo=CSS)
