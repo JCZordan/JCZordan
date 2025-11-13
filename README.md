@@ -7,6 +7,7 @@ Here are some ideas to get you started:
 -->
 - 🔭 Trabajando en un Proyecto de Vivienda Unifamiliar
 - 🌱 Actualmente capacitandome en Sql - JavaScript and Python
+### Technologies
 https://img.shields.io/badge/logo-javascript-blue?logo=javascript
 https://img.shields.io/badge/logo-javascript-blue?logo=Sql
 https://img.shields.io/badge/logo-javascript-blue?logo=Python
