@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 🌱 Actualmente capacitandome en Sql - JavaScript and Python
 - - 👯 Me gusta trabajar en equipo
 ### Technologies
-https://img.shields.io/badge/logo-javascript-blue?logo=javascript
+[![JavaScript](https://img.shields.io/badge/logo-javascript-blue?logo=javascript)]()
 https://img.shields.io/badge/logo-javascript-blue?logo=Sql
 https://img.shields.io/badge/logo-javascript-blue?logo=Python
 https://img.shields.io/badge/logo-javascript-blue?logo=Html
