@@ -18,4 +18,4 @@ CAPACITANDOME ACTUALMENTE EN.-
 ## 🛠 Skills
 Git, Javascript, HTML, CSS, Python, Autocad, SketchUp
 
-!(https://i.ibb.co/svJmgz8J/unnamed-1.png)
+![LZSAS](https://i.ibb.co/svJmgz8J/unnamed-1.png)
