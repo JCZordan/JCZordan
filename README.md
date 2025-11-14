@@ -16,6 +16,5 @@ CAPACITANDOME EN.-
 ![AutoCAD Badge](https://img.shields.io/badge/AutoCAD-E51050?logo=autocad&logoColor=fff&style=for-the-badge)
 ![SketchUp Badge](https://img.shields.io/badge/SketchUp-005F9E?logo=sketchup&logoColor=fff&style=for-the-badge)
 ## 🛠 Skills
-Mejorando Continuamente
 
 ![LZSAS](https://i.ibb.co/svJmgz8J/unnamed-1.png)
