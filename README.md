@@ -1,11 +1,7 @@
 
-# HOLA A TODOS.-
-
-Read me
-
+# HOLA A TODOS.- 👋
 
 ## 🛠 Skills Code
-
 CAPACITANDOME EN.-
 
 <br>[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://es.wikipedia.org/wiki/Guido_van_Rossum)
