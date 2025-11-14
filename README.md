@@ -14,7 +14,7 @@ CAPACITANDOME EN.-
 ![VSCode](https://img.shields.io/badge/VSCode-violet?style=for-the-badge&logo=visual-studio-code)<br/>
 <br>![Linux Badge](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=for-the-badge)<br/>
 ![AutoCAD Badge](https://img.shields.io/badge/AutoCAD-E51050?logo=autocad&logoColor=fff&style=for-the-badge)
-![SketchUp Badge](https://img.shields.io/badge/SketchUp-005F9E?logo=sketchup&logoColor=fff&style=for-the-badge)
+[![SketchUp Badge](https://img.shields.io/badge/SketchUp-005F9E?logo=sketchup&logoColor=fff&style=for-the-badge)](https://es.wikipedia.org/wiki/SketchUp)
 
 
 ![LZSAS](https://i.ibb.co/LhC4fsMq/unnamed-1-1.png)
