@@ -6,7 +6,7 @@ Read me
 
 ## CODE
 
-CAPACITANDOME ACTUALMENTE EN.-
+CAPACITANDOME EN.-
 
 [![JavaScript](https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=flat-square)](https://ecma-international.org/publications-and-standards/standards/ecma-262/)
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://es.wikipedia.org/wiki/Guido_van_Rossum)
