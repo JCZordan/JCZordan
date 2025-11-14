@@ -17,4 +17,4 @@ CAPACITANDOME EN.-
 ![SketchUp Badge](https://img.shields.io/badge/SketchUp-005F9E?logo=sketchup&logoColor=fff&style=for-the-badge)
 ## 🛠 Skills
 
-![LZSAS](https://i.ibb.co/svJmgz8J/unnamed-1.png)
+![LZSAS](https://i.ibb.co/svJmgz8J/unnamed-1.png](https://i.ibb.co/LhC4fsMq/unnamed-1-1.png)
