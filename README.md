@@ -8,8 +8,8 @@ Read me
 
 CAPACITANDOME EN.-
 
-<br>[![JavaScript](https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=flat-square)](https://ecma-international.org/publications-and-standards/standards/ecma-262/)
-[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://es.wikipedia.org/wiki/Guido_van_Rossum)<br/>
+<br>[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://es.wikipedia.org/wiki/Guido_van_Rossum)
+[![JavaScript](https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=flat-square)](https://ecma-international.org/publications-and-standards/standards/ecma-262/)<br/>
 <br>![Git Badge](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=for-the-badge)
 ![VSCode](https://img.shields.io/badge/VSCode-violet?style=for-the-badge&logo=visual-studio-code)<br/>
 <br>![Linux Badge](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=for-the-badge)<br/>
