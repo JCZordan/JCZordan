@@ -9,6 +9,7 @@
 [![Excel](https://shields.io/badge/Microsoft%20Excel-217346?logo=microsoftexcel&logoColor=white&style=flat-square)](https://www.microsoft.com/microsoft-365/excel)
 <br>[![Git Badge](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=for-the-badge)](https://es.wikipedia.org/wiki/Linus_Torvalds)
 [![VSCode](https://img.shields.io/badge/VSCode-violet?style=for-the-badge&logo=visual-studio-code)](https://en.wikipedia.org/wiki/Visual_Studio_Code)<br/>
+[![SQLite](https://shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white&style=flat-square)](https://sqlite.org/)
 <br>[![Linux Badge](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=for-the-badge)](https://es.wikipedia.org/wiki/GNU/Linux)<br/>
 [![AutoCAD Badge](https://img.shields.io/badge/AutoCAD-E51050?logo=autocad&logoColor=fff&style=for-the-badge)](https://es.wikipedia.org/wiki/AutoCAD)
 [![SketchUp Badge](https://img.shields.io/badge/SketchUp-005F9E?logo=sketchup&logoColor=fff&style=for-the-badge)](https://es.wikipedia.org/wiki/SketchUp)
