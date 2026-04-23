@@ -1,7 +1,7 @@
 
 # HOLA A TODOS.- 👋
 
-## 🛠 Skills Code
+## 🛠 Technical Skills & Tools
 
 <br>[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://es.wikipedia.org/wiki/Guido_van_Rossum)
 [![Dart](https://shields.io/badge/Dart-0175C2?logo=dart&logoColor=white&style=flat-square)](https://dart.dev/)
